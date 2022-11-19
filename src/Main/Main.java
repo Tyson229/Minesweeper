@@ -6,6 +6,6 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("New");
 		GameRunner newGame = new GameRunner();
-		newGame.init();
+		newGame.init(3, 3);
 	}
 }
